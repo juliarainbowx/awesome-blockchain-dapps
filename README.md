@@ -1,5 +1,5 @@
 # Blockchain & DApps
-![Blockchain](https://images.pexels.com/photos/1036644/pexels-photo-1036644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=640&w=427)
+![Blockchain](https://i.ibb.co/gV1SBL8/bitcoin.jpg)
 Collection of resources about blockchain, DApps and general cryptocurrency (mostly for developers). 
 
 # Table of contents
