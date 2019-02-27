@@ -1,6 +1,6 @@
 # Blockchain & DApps
-![Blockchain](https://i.ibb.co/gV1SBL8/bitcoin.jpg)
-Collection of resources about blockchain, DApps and general cryptocurrency (mostly for developers). 
+![Blockchain](https://i.ibb.co/4Vjpz1J/bitcoin.jpg)
+Collection of resources and projects around blockchain, DApps and cryptocurrency (mostly for developers). Hope this list will be useful for you. 
 
 # Table of contents
 * [Blockchain](#blockchain)
