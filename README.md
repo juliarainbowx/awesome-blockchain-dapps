@@ -86,7 +86,7 @@ Collection of resources about blockchain, DApps and general cryptocurrency (most
     * [Polkadot](https://polkadot.network/)
     * [Cosmos](https://cosmos.network/)
     * [BTC Relay](http://btcrelay.org/)
-* Oracles [why they're necessary](https://medium.com/@jesus_notchrist/blockchain-oracles-af3b216bed6b)
+* Oracles ([why they're necessary](https://medium.com/@jesus_notchrist/blockchain-oracles-af3b216bed6b))
     * [Chainlink](https://chain.link/)
     * [Oraclize](http://www.oraclize.it/)
 * DAG ([what is it?](https://medium.com/coinmonks/dag-will-overcome-blockchain-problems-dag-vs-blockchain-9ca302651122))
