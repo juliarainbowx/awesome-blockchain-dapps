@@ -40,7 +40,7 @@ Collection of resources about blockchain, DApps and general cryptocurrency (most
     * [Ethereum](https://www.ethereum.org/)
     * [EOSIO](https://eos.io/)
     * [Lisk](https://lisk.io/)
-    * [Hyperledger](https://www.hyperledger.org/) - [intro course](https://training.linuxfoundation.org/training/blockchain-for-business-an-introduction-to-hyperledger-technologies/?SSAID=314743&sscid=21k3_nvsbo)
+    * [Hyperledger](https://www.hyperledger.org/) ([intro course](https://training.linuxfoundation.org/training/blockchain-for-business-an-introduction-to-hyperledger-technologies/?SSAID=314743&sscid=21k3_nvsbo))
     * [Hedera Hashgraph](https://www.hedera.com/)
     * [AION](https://aion.network/)
     * [Cardano](https://www.cardano.org/en/home/)
@@ -53,7 +53,7 @@ Collection of resources about blockchain, DApps and general cryptocurrency (most
     * [Dapp](https://dapp.tools/dapp/)
     * [Brownie](https://github.com/HyperLink-Technology/brownie) - Python framework for testing, deploying and interacting with Ethereum smart contracts
     * [Etherlime](https://github.com/LimeChain/etherlime)
-* Smart contracts [guide](https://masterthecrypto.com/what-are-smart-contracts-guide/)
+* Smart contracts ([guide](https://masterthecrypto.com/what-are-smart-contracts-guide/))
     * [Solidity](https://github.com/ethereum/solidity) - contract-oriented programming language
     * [Tezos](https://tezos.com/) - platform for smart contracts and decentralized applications
     * [NEO](https://neo.org/) - utilizes blockchain technology and digital identities to digitize assets and automate the management of digital assets using smart contracts
@@ -89,7 +89,7 @@ Collection of resources about blockchain, DApps and general cryptocurrency (most
 * Oracles [why they're necessary](https://medium.com/@jesus_notchrist/blockchain-oracles-af3b216bed6b)
     * [Chainlink](https://chain.link/)
     * [Oraclize](http://www.oraclize.it/)
-* DAG [what is it?](https://medium.com/coinmonks/dag-will-overcome-blockchain-problems-dag-vs-blockchain-9ca302651122)
+* DAG ([what is it?](https://medium.com/coinmonks/dag-will-overcome-blockchain-problems-dag-vs-blockchain-9ca302651122))
     * [IOTA](https://www.iota.org/)
     * [Obyte](https://obyte.org/)
     * [Keep](https://keep.network/)
@@ -125,9 +125,9 @@ Collection of resources about blockchain, DApps and general cryptocurrency (most
     * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 ### Other cryptocurrencies
-* [Ripple(XRP)](https://ripple.com/)
-* [Bitcoin Cash(BCH)](https://www.bitcoincash.org/)
-* [Litecoin(LTC)](https://litecoin.org/)
+* [Ripple (XRP)](https://ripple.com/)
+* [Bitcoin Cash (BCH)](https://www.bitcoincash.org/)
+* [Litecoin (LTC)](https://litecoin.org/)
 * [Decred](https://decred.org/)
 * [Monero](https://www.getmonero.org/)
 * [Metal](https://www.metalpay.com/)
