@@ -1,5 +1,6 @@
-# Blockchain & DApps
+# Awesome Blockchain & DApps
 ![Blockchain](https://i.ibb.co/4Vjpz1J/bitcoin.jpg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)<br/>
 Collection of resources and projects around blockchain, DApps and cryptocurrency (mostly for developers).
 
 # Table of contents
