@@ -15,10 +15,12 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
 * [How to contribute](#how-to-contribute)
 
 ### Blockchain
+* [What is Blockchain Technology? A Step-by-Step Guide For Beginners](https://blockgeeks.com/guides/what-is-blockchain-technology/) **ARTICLE**
 * [Blockchain Revolution](https://www.amazon.com/Blockchain-Revolution-Technology-Cryptocurrencies-Changing/dp/1101980141/) **BOOK**
 * [Learn Blockchains by building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) **TUTORIAL**
 * [Databases and Blockchains](https://hackernoon.com/databases-and-blockchains-the-difference-is-in-their-purpose-and-design-56ba6335778b) **ARTICLE**
 * [Why Blockchain is hard?](https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c) **ARTICLE**
+* [On Public and Private Blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) **ARTICLE**
 * [Blockchain Programming for New Developers — I](https://medium.com/@jesus_notchrist/blockchain-programming-for-new-developers-i-29d795b629fe) **ARTICLE**
 * [Blockchain A-Z™: Learn How To Build Your First Blockchain](https://www.udemy.com/build-your-blockchain-az/) **COURSE**
 * [Leran Blockchain for 2 months](https://www.youtube.com/watch?v=wVVGv2bmxow) **VIDEO**
@@ -112,6 +114,8 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
 * [Annotated BTC whitepaper](https://fermatslibrary.com/s/bitcoin) **WHITEPAPER**
 * [Mastering Blockchain](https://github.com/bitcoinbook/bitcoinbook) **BOOK**
 * [You Don’t Understand Bitcoin Because You Think Money Is Real](https://medium.com/s/the-crypto-collection/you-dont-understand-bitcoin-because-you-think-money-is-real-5aef45b8e952) **ARTICLE**
+* [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) **ARTICLE**
+* [Vocabulary](https://bitcoin.org/en/vocabulary#address) - online glossary for technical terms regarding Bitcoins
 
 ### Ethereum
 * [Annotated ETH whitepaper](https://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform) **WHITEPAPER**
