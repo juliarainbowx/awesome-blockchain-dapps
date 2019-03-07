@@ -24,8 +24,10 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
 * [Blockchain Programming for New Developers — I](https://medium.com/@jesus_notchrist/blockchain-programming-for-new-developers-i-29d795b629fe) **ARTICLE**
 * [Blockchain A-Z™: Learn How To Build Your First Blockchain](https://www.udemy.com/build-your-blockchain-az/) **COURSE**
 * [Leran Blockchain for 2 months](https://www.youtube.com/watch?v=wVVGv2bmxow) **VIDEO**
-* Smart contracts
+* Protocols & smart contracts
+    * [Basic Primer: Blockchain Consensus Protocol](https://blockgeeks.com/guides/blockchain-consensus/) **ARTICLE**
     * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) **ARTICLE**
+    * [Proof of Work vs Proof of Stake: Basic Mining Guide](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/) **ARTICLE**
     * [The Truth about Smart Contracts](https://medium.com/@jimmysong/the-truth-about-smart-contracts-ae825271811f) **ARTICLE**
 
 ### DApps
@@ -37,6 +39,7 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [Dapp](https://www.dapp.com/)
     * [Dapp Volume](https://dappvolume.com/)
     * [State of the Dapps](https://www.stateofthedapps.com/)
+    * [Super Dapps](https://superdapps.com/)
 
 ### Development tools
 * Platforms
@@ -57,7 +60,7 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [Brownie](https://github.com/HyperLink-Technology/brownie) - Python framework for testing, deploying and interacting with Ethereum smart contracts
     * [Etherlime](https://github.com/LimeChain/etherlime)
 * Smart contracts ([guide](https://masterthecrypto.com/what-are-smart-contracts-guide/))
-    * [Solidity](https://github.com/ethereum/solidity) - contract-oriented programming language
+    * [Solidity](https://github.com/ethereum/solidity) - contract-oriented programming language ([guide](https://blockgeeks.com/guides/solidity/))
     * [Tezos](https://tezos.com/) - platform for smart contracts and decentralized applications
     * [NEO](https://neo.org/) - utilizes blockchain technology and digital identities to digitize assets and automate the management of digital assets using smart contracts
     * [Vyper](https://github.com/ethereum/vyper) - smart contract development language
@@ -130,17 +133,19 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 ### Other cryptocurrencies
+* [What is Cryptocurrency. Guide for Beginners.](https://cointelegraph.com/bitcoin-for-beginners/what-are-cryptocurrencies) **ARTICLE**
 * [Ripple (XRP)](https://ripple.com/)
 * [Bitcoin Cash (BCH)](https://www.bitcoincash.org/)
 * [Litecoin (LTC)](https://litecoin.org/)
 * [Decred](https://decred.org/)
-* [Monero](https://www.getmonero.org/)
+* [Monero](https://www.getmonero.org/) ([How does Monero work?](https://youtu.be/cjbHqvr4ffo?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL))
 * [Metal](https://www.metalpay.com/)
 * [Verge](https://vergecurrency.com/)
 * [SmartCash](https://smartcash.cc/)
 * [Dash](https://www.dash.org/)
 
 ### Working apps
+* [Steemit](https://steemit.com/) - write content and earn money - social media meets cryptocurrency 
 * [Oaken](https://www.oakeninnovations.com/) - blockchain technology company focused on secure IoT applications
 * [GUTS](https://guts.tickets/) - blockchain technology for transparent ticketing ecosystem
 * [Sikorka](http://sikorka.io/) - Ethereum based system that enables smart contracts to be deployed on the spot in the real world
@@ -166,7 +171,8 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
 * [raidEX](https://raidex.io/) - decentralized exchange
 * [Kyber Network](https://kyber.network/) - on-chain liquidity protocol allows decentralized token swaps to be integrated into any application
 * [EtherDelta](https://etherdelta.com/) - decentralized trading platform
-* [Kaleido](https://kaleido.io/) - blockchain business cloud 
+* [Kaleido](https://kaleido.io/) - blockchain business cloud
+* [Filecoin](https://filecoin.io/) - decentralized file storage
 
 
 ### Other
