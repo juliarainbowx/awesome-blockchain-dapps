@@ -10,7 +10,7 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
 * [Bitcoin](#bitcoin)
 * [Ethereum](#ethereum)
 * [Other cryptocurrencies](#other-cryptocurrencies)
-* [Working apps](#working-apps)
+* [(Some) Working apps](#working-apps)
 * [Other](#other)
 * [How to contribute](#how-to-contribute)
 
@@ -53,6 +53,9 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [NEM](https://nem.io/) - smart asset system
     * [Qtum](https://qtum.org/)
     * [Waves](https://wavesplatform.com/)
+    * [FLETA](https://fleta.io/)
+    * [Nebulas](https://nebulas.io/index.html)
+    * [Blockstack](https://blockstack.org)
 * Frameworks 
     * [Truffle](https://www.truffleframework.com/)
     * [Embark](https://embark.status.im/)
@@ -118,7 +121,7 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
 * [Mastering Blockchain](https://github.com/bitcoinbook/bitcoinbook) **BOOK**
 * [You Don’t Understand Bitcoin Because You Think Money Is Real](https://medium.com/s/the-crypto-collection/you-dont-understand-bitcoin-because-you-think-money-is-real-5aef45b8e952) **ARTICLE**
 * [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) **ARTICLE**
-* [Vocabulary](https://bitcoin.org/en/vocabulary#address) - online glossary for technical terms regarding Bitcoins
+* [Vocabulary](https://bitcoin.org/en/vocabulary#address) - online glossary for technical terms regarding Bitcoin
 
 ### Ethereum
 * [Annotated ETH whitepaper](https://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform) **WHITEPAPER**
@@ -144,40 +147,47 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
 * [SmartCash](https://smartcash.cc/)
 * [Dash](https://www.dash.org/)
 
-### Working apps
-* [Steemit](https://steemit.com/) - write content and earn money - social media meets cryptocurrency 
-* [Oaken](https://www.oakeninnovations.com/) - blockchain technology company focused on secure IoT applications
-* [GUTS](https://guts.tickets/) - blockchain technology for transparent ticketing ecosystem
-* [Sikorka](http://sikorka.io/) - Ethereum based system that enables smart contracts to be deployed on the spot in the real world
-* [T-Mining](https://t-mining.be/) - logistic platforms to develop blockchain-enabled software solutions
-* [Waltonchain](https://www.waltonchain.org/en/) - blockchain + IoT ecosystem
-* [Sweetbridge](https://sweetbridge.com/) - real-time financial system
-* [Monax](https://monax.io/) - instrument to control your contracts
-* [OriginTrail](https://origintrail.io/) - protocol brings trusted data sharing to global supply chains by utilizing blockchain technology
-* [Ujo](https://www.ujomusic.com/) - service connects artists and fans directly using Ethereum
-* [Po.et](https://www.po.et/) - decentralized protocol for content ownership, discovery and monetization in media
-* [MYCELIA](http://myceliaformusic.org/) - research and development hub for music makers
-* [Poex.io](https://poex.io/) - blockchain notary service, instant & secure Proof of Existence for any document
-* [Ink](https://ink.one/) - set of blockchain solutions
-* [Chlu](https://chlu.io/) - decentralized ratings and reviews validated by proof of payment on blockchain
-* [Bloom](https://bloom.co/) - end-to-end protocol for identity attestation, risk assessment, and credit scoring
-* [Monetha](https://www.monetha.io/) - solution to build a censorship resistant and transferable reputation that is reliable and based on your behavior
-* [0x](https://0x.org/) - open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain
-* [Omise](https://www.omise.co/) - accept and process payments 
-* [Bancor](https://www.bancor.network/) - smart crypto wallet
-* [AirSwap](https://www.airswap.io/) - P2P trading network on Ethereum
-* [Counterparty](https://counterparty.io/) - extends Bitcoin’s functionality
-* [Bitshares Blockchain](https://bitshares.org/) - industrial-grade decentralized platform
-* [raidEX](https://raidex.io/) - decentralized exchange
-* [Kyber Network](https://kyber.network/) - on-chain liquidity protocol allows decentralized token swaps to be integrated into any application
-* [EtherDelta](https://etherdelta.com/) - decentralized trading platform
-* [Kaleido](https://kaleido.io/) - blockchain business cloud
-* [Filecoin](https://filecoin.io/) - decentralized file storage
-
+### (Some) Working apps
+* Social networks
+    * [Memo](https://memo.cash/) - Bitcoin social network
+    * [KARMA](https://www.karmaapp.io/) - social network for good
+* Content & Media
+    * [Steemit](https://steemit.com/) - write content and earn money - social media meets cryptocurrency
+    * [Po.et](https://www.po.et/) - decentralized protocol for content ownership, discovery and monetization in media
+    * [Smoogs](https://smoogs.io/) - micropayment solution for digital content creators
+    * [Ujo](https://www.ujomusic.com/) - service connects artists and fans directly using Ethereum
+    * [MYCELIA](http://myceliaformusic.org/) - research and development hub for music makers
+* Storage
+    * [Filecoin](https://filecoin.io/) - decentralized file storage
+    * [Kaleido](https://kaleido.io/) - blockchain business cloud
+* Other
+    * [Oaken](https://www.oakeninnovations.com/) - blockchain technology company focused on secure IoT applications
+    * [GUTS](https://guts.tickets/) - blockchain technology for transparent ticketing ecosystem
+    * [Sikorka](http://sikorka.io/) - Ethereum based system that enables smart contracts to be deployed on the spot in the real world
+    * [T-Mining](https://t-mining.be/) - logistic platforms to develop blockchain-enabled software solutions
+    * [Waltonchain](https://www.waltonchain.org/en/) - blockchain + IoT ecosystem
+    * [Sweetbridge](https://sweetbridge.com/) - real-time financial system
+    * [Monax](https://monax.io/) - instrument to control your contracts
+    * [OriginTrail](https://origintrail.io/) - protocol brings trusted data sharing to global supply chains by utilizing blockchain technology
+    * [Poex.io](https://poex.io/) - blockchain notary service, instant & secure Proof of Existence for any document
+    * [Ink](https://ink.one/) - set of blockchain solutions
+    * [Chlu](https://chlu.io/) - decentralized ratings and reviews validated by proof of payment on blockchain
+    * [Bloom](https://bloom.co/) - end-to-end protocol for identity attestation, risk assessment, and credit scoring
+    * [Monetha](https://www.monetha.io/) - solution to build a censorship resistant and transferable reputation that is reliable and based on your behavior
+    * [0x](https://0x.org/) - open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain
+    * [Omise](https://www.omise.co/) - accept and process payments 
+    * [Bancor](https://www.bancor.network/) - smart crypto wallet
+    * [AirSwap](https://www.airswap.io/) - P2P trading network on Ethereum
+    * [Counterparty](https://counterparty.io/) - extends Bitcoin’s functionality
+    * [Bitshares Blockchain](https://bitshares.org/) - industrial-grade decentralized platform
+    * [raidEX](https://raidex.io/) - decentralized exchange
+    * [Kyber Network](https://kyber.network/) - on-chain liquidity protocol allows decentralized token swaps to be integrated into any application
+    * [EtherDelta](https://etherdelta.com/) - decentralized trading platform
 
 ### Other
 * [P2P projects list](https://github.com/moshest/p2p-index) - collection of peer-to-peer decentralized projects
 * [Curated list of academic blockchain-related papers](https://github.com/decrypto-org/blockchain-papers)
+* [The Blockchain Brief](https://www.theblockchainbrief.com/) - magazine about Blockchain & Crypto industry
 * Cryptography
     * [Cryptography I](https://www.coursera.org/learn/crypto) **COURSE**
     * [Crypto 101](https://github.com/crypto101/book) **FREE BOOK**
