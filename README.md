@@ -149,10 +149,18 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
 
 ### (Some) Working apps
 * Social networks
+    * [Steemit](https://steemit.com/) - write content and earn money - social media meets cryptocurrency
     * [Memo](https://memo.cash/) - Bitcoin social network
     * [KARMA](https://www.karmaapp.io/) - social network for good
-* Content & Media
-    * [Steemit](https://steemit.com/) - write content and earn money - social media meets cryptocurrency
+    * [Yours](https://www.yours.org/) - social network where you can earn Bitcoin SV if you create value
+    * [Twister](http://twister.net.co/) - p2p microblogging
+    * [Friendica](https://friendi.ca/) - personal decentralized social network
+    * [Diaspora](https://diasporafoundation.org/) - online social world where you are in control
+* Messaging
+    * [Hush](https://myhush.org/) - private messenger for pseudonymous and anonymous communications
+    * [Dust](https://usedust.com/) - secure messenger
+    * [E-Chat](https://echat.io/) - decentralized secure messenger and fastest-growing social network
+* Media 
     * [Po.et](https://www.po.et/) - decentralized protocol for content ownership, discovery and monetization in media
     * [Smoogs](https://smoogs.io/) - micropayment solution for digital content creators
     * [Ujo](https://www.ujomusic.com/) - service connects artists and fans directly using Ethereum
@@ -160,6 +168,13 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
 * Storage
     * [Filecoin](https://filecoin.io/) - decentralized file storage
     * [Kaleido](https://kaleido.io/) - blockchain business cloud
+    * [Graphite](https://www.graphitedocs.com/) - create and edit documents, collaborate in real-time, store and share files
+    * [Storj](https://storj.io/) - decentralized cloud storage
+    * [Sia](https://sia.tech/) - decentralized cloud storage platform
+* Games / Collectibles
+    * [CryptoKitties](https://www.cryptokitties.co/) - collect and breed digital cats
+    * [CryptoPunks](https://thecryptopunks.com/) - collectible characters on the Ethereum Blockchain
+    * [AXIE Infinity](https://axieinfinity.com/#) - breed, raise, and battle fantasy creatures
 * Other
     * [Oaken](https://www.oakeninnovations.com/) - blockchain technology company focused on secure IoT applications
     * [GUTS](https://guts.tickets/) - blockchain technology for transparent ticketing ecosystem
@@ -187,6 +202,7 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
 ### Other
 * [P2P projects list](https://github.com/moshest/p2p-index) - collection of peer-to-peer decentralized projects
 * [Curated list of academic blockchain-related papers](https://github.com/decrypto-org/blockchain-papers)
+* [21CRYPTO](https://www.21cryptos.com/) - Crypto magazine 
 * [The Blockchain Brief](https://www.theblockchainbrief.com/) - magazine about Blockchain & Crypto industry
 * Cryptography
     * [Cryptography I](https://www.coursera.org/learn/crypto) **COURSE**
