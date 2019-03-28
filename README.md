@@ -175,6 +175,12 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [CryptoKitties](https://www.cryptokitties.co/) - collect and breed digital cats
     * [CryptoPunks](https://thecryptopunks.com/) - collectible characters on the Ethereum Blockchain
     * [AXIE Infinity](https://axieinfinity.com/#) - breed, raise, and battle fantasy creatures
+* Sport / Health
+    * [Lympo](https://lympo.io/) - monetizing sports and health data via Blockchain
+    * [Akiri](https://akiri.com/) - networks for health data
+    * [Iryo](https://iryo.io/) - future-proof healthcare protocol
+    * [Patientory](https://patientory.com/) - way to securely store and manage health information
+    * [Medicalchain](https://medicalchain.com/) - platform to securely store and share electronic health records
 * Other
     * [Oaken](https://www.oakeninnovations.com/) - blockchain technology company focused on secure IoT applications
     * [GUTS](https://guts.tickets/) - blockchain technology for transparent ticketing ecosystem
