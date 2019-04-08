@@ -156,6 +156,7 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [Twister](http://twister.net.co/) - p2p microblogging
     * [Friendica](https://friendi.ca/) - personal decentralized social network
     * [Diaspora](https://diasporafoundation.org/) - online social world where you are in control
+    * [Trustory](https://www.trustory.io/) - social network for experts to identify what is true and what isn't
 * Messaging
     * [Hush](https://myhush.org/) - private messenger for pseudonymous and anonymous communications
     * [Dust](https://usedust.com/) - secure messenger
@@ -181,6 +182,11 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [Iryo](https://iryo.io/) - future-proof healthcare protocol
     * [Patientory](https://patientory.com/) - way to securely store and manage health information
     * [Medicalchain](https://medicalchain.com/) - platform to securely store and share electronic health records
+* Internet / Email
+    * [Brave](https://brave.com/) - blockchain browser
+    * [Sendy](https://sendy.network/) - better email through rewarding attention
+    * [Status](https://dev.status.im/) - distributed internet in your pocket
+    * [SAFE Network](https://safenetwork.tech/) - decentralized autonomous network
 * Other
     * [Oaken](https://www.oakeninnovations.com/) - blockchain technology company focused on secure IoT applications
     * [GUTS](https://guts.tickets/) - blockchain technology for transparent ticketing ecosystem
@@ -204,6 +210,7 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [raidEX](https://raidex.io/) - decentralized exchange
     * [Kyber Network](https://kyber.network/) - on-chain liquidity protocol allows decentralized token swaps to be integrated into any application
     * [EtherDelta](https://etherdelta.com/) - decentralized trading platform
+    * [Orchid](https://www.orchid.com/) - suite of open source tools and cryptographic protocols (VPN, network)
 
 ### Other
 * [P2P projects list](https://github.com/moshest/p2p-index) - collection of peer-to-peer decentralized projects
