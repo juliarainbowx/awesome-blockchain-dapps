@@ -172,6 +172,13 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [Graphite](https://www.graphitedocs.com/) - create and edit documents, collaborate in real-time, store and share files
     * [Storj](https://storj.io/) - decentralized cloud storage
     * [Sia](https://sia.tech/) - decentralized cloud storage platform
+* Professional
+    * [Jobeum](https://jobeum.com/) - blockchain-based professional network
+    * [HireVibes](https://www.hirevibes.io/) - open source jobs platform
+    * [SpringRole](https://springrole.com/) - professional profile
+    * [Ethlance](https://ethlance.com/) - hire or work for Ether cryptocurrency
+    * [Aworker](https://aworker.io/) - recruitment platform on Blockchain
+    * [HireMatch](https://hirematch.io/) - recruitment platform on Blockchain
 * Games / Collectibles
     * [CryptoKitties](https://www.cryptokitties.co/) - collect and breed digital cats
     * [CryptoPunks](https://thecryptopunks.com/) - collectible characters on the Ethereum Blockchain
@@ -187,6 +194,8 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [Sendy](https://sendy.network/) - better email through rewarding attention
     * [Status](https://dev.status.im/) - distributed internet in your pocket
     * [SAFE Network](https://safenetwork.tech/) - decentralized autonomous network
+    * [Scycoin](https://www.skycoin.net/) - blockchain ecosystem
+    * [ZeroNet](https://zeronet.io/) - open, free and uncensorable websites using Bitcoin cryptography and BitTorrent network
 * Other
     * [Oaken](https://www.oakeninnovations.com/) - blockchain technology company focused on secure IoT applications
     * [GUTS](https://guts.tickets/) - blockchain technology for transparent ticketing ecosystem
