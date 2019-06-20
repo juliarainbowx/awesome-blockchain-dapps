@@ -56,6 +56,7 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [FLETA](https://fleta.io/)
     * [Nebulas](https://nebulas.io/index.html)
     * [Blockstack](https://blockstack.org)
+    * [Aragon](https://aragon.org)
 * Frameworks 
     * [Truffle](https://www.truffleframework.com/)
     * [Embark](https://embark.status.im/)
@@ -111,6 +112,8 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [Nano](https://nano.org/)
     * [Stellar](https://www.stellar.org/) - platform that connects banks, payments systems, and people
     * [Interledger](https://interledger.org/) - open protocol suite for sending payments across different ledgers
+    * [MarkerDAO](https://makerdao.com/en/) - transparent and sustainable finance
+    * [OmiseGO](https://omisego.network/) - enables financial inclusion and interoperability 
 * Testing
     * [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Docker image that spins up a single-node Proof of Authority blockchain with Geth
     * [Ganache](https://truffleframework.com/ganache)
@@ -183,6 +186,7 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [CryptoKitties](https://www.cryptokitties.co/) - collect and breed digital cats
     * [CryptoPunks](https://thecryptopunks.com/) - collectible characters on the Ethereum Blockchain
     * [AXIE Infinity](https://axieinfinity.com/#) - breed, raise, and battle fantasy creatures
+    * [High Fidelity](https://www.highfidelity.com/) - virtual reality platform
 * Sport / Health
     * [Lympo](https://lympo.io/) - monetizing sports and health data via Blockchain
     * [Akiri](https://akiri.com/) - networks for health data
@@ -220,6 +224,11 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [Kyber Network](https://kyber.network/) - on-chain liquidity protocol allows decentralized token swaps to be integrated into any application
     * [EtherDelta](https://etherdelta.com/) - decentralized trading platform
     * [Orchid](https://www.orchid.com/) - suite of open source tools and cryptographic protocols (VPN, network)
+    * [Augur](https://www.augur.net/) - decentralized oracle and prediction market protocol built on the Ethereum blockchain
+    * [Origin Protocol](https://dapp.originprotocol.com/) - decentralized marketplaces
+    * [Gnosis](https://gnosis.io/) - Ethereum-based prediction platform
+    * [Aelf](https://aelf.io/) - decentralized cloud computing network
+    * [Neufund](https://neufund.org) - platform for issuing security tokens on the Ethereum blockchain 
 
 ### Other
 * [P2P projects list](https://github.com/moshest/p2p-index) - collection of peer-to-peer decentralized projects
