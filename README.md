@@ -161,7 +161,6 @@ Collection of resources and projects around blockchain, DApps and cryptocurrency
     * [Diaspora](https://diasporafoundation.org/) - online social world where you are in control
     * [Trustory](https://www.trustory.io/) - social network for experts to identify what is true and what isn't
 * Messaging
-    * [Hush](https://myhush.org/) - private messenger for pseudonymous and anonymous communications
     * [Dust](https://usedust.com/) - secure messenger
     * [E-Chat](https://echat.io/) - decentralized secure messenger and fastest-growing social network
 * Media 
